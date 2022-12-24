@@ -1,12 +1,13 @@
-div{
-    color:white;
-    margin-left:32px;
-    padding: 10px;
-}
-main .accio, #job{
+main .accio,#job{
     background-color: black;
     width: 150px;
     height: 150px;
 }
+div>p,.hello-accio-job{
+    color:white;
+    margin-left:32px;
+    padding: 10px;
+}
+
 
 
